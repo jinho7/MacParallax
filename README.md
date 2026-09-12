@@ -2,7 +2,7 @@
 
 A native menu bar app that follows your MacBook lid angle with a desktop effect and optional system audio control.
 
-[Website](https://macparallax.woodsy-bard-6751.chatgpt.site) · [Compatibility](https://macparallax.woodsy-bard-6751.chatgpt.site/compatibility) · [Report a bug](https://github.com/jinho7/MacParallax/issues/new/choose)
+[Website](https://macparallax.jiiino.chatgpt.site) · [Compatibility](https://macparallax.jiiino.chatgpt.site/compatibility) · [Report a bug](https://github.com/jinho7/MacParallax/issues/new/choose)
 
 ## Release status
 
