@@ -1,0 +1,27 @@
+name: Bug report
+description: Report a reproducible MacParallax issue. Do not include private data or license keys.
+body:
+  - type: input
+    id: mac
+    attributes:
+      label: Mac model
+      placeholder: MacBook Pro, M2 Pro
+    validations:
+      required: true
+  - type: input
+    id: versions
+    attributes:
+      label: macOS and MacParallax versions
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: What happened and how to reproduce it
+      description: Mention Spaces, full-screen apps, external displays or audio devices if relevant. Avoid private information.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
