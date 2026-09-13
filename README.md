@@ -2,11 +2,11 @@
 
 A native menu bar app that follows your MacBook lid angle with a desktop effect and optional system audio control.
 
-[Website](https://macparallax.jiiino.chatgpt.site) · [Compatibility](https://macparallax.jiiino.chatgpt.site/compatibility) · [Report a bug](https://github.com/jinho7/MacParallax/issues/new/choose)
+[Website](https://macparallax.pages.dev) · [Compatibility](https://macparallax.pages.dev/compatibility) · [Report a bug](https://github.com/jinho7/MacParallax/issues/new/choose)
 
 ## Release status
 
-The **0.8.0 early-access trial** is available. It is **ad-hoc signed and not Apple-notarized**. Read the [installation guide](https://macparallax.jiiino.chatgpt.site/install) before downloading. macOS may require manual approval at first launch and after updates.
+The **0.8.0 early-access trial** is available. It is **ad-hoc signed and not Apple-notarized**. Read the [installation guide](https://macparallax.pages.dev/install) before downloading. macOS may require manual approval at first launch and after updates.
 
 [Download the trial and checksum](https://github.com/jinho7/MacParallax/releases/tag/v0.8.0-rc1). The file retains its `candidate` name because this is an early-access build.
 

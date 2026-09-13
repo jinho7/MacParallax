@@ -2,7 +2,7 @@
 
 **Public trial · Not Apple-notarized.** This build is ad-hoc signed and has no Developer ID distribution signature. macOS may block its first launch and require manual approval. The filename retains `candidate` to identify the early-access build.
 
-Download `MacParallax-0.8.0-candidate.dmg` below. [Read the installation guide](https://macparallax.jiiino.chatgpt.site/install) and [check compatibility](https://macparallax.jiiino.chatgpt.site/compatibility) first.
+Download `MacParallax-0.8.0-candidate.dmg` below. [Read the installation guide](https://macparallax.pages.dev/install) and [check compatibility](https://macparallax.pages.dev/compatibility) first.
 
 Copy MacParallax to Applications and open it there. If macOS cannot verify it and you trust this download, go to System Settings → Privacy & Security → Open Anyway. Then complete the app's Screen Recording setup. Updates may require approval again. Do not disable Gatekeeper globally. [Apple's explanation of these alerts](https://support.apple.com/en-us/102445).
 
