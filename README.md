@@ -6,7 +6,11 @@ A native menu bar app that follows your MacBook lid angle with a desktop effect 
 
 ## Release status
 
-Preparing for early access. There is no public download or checkout yet. The release candidate needs Developer ID signing, notarization and live payment verification before sale.
+The **0.8.0 early-access trial** is available. It is **ad-hoc signed and not Apple-notarized**. Read the [installation guide](https://macparallax.jiiino.chatgpt.site/install) before downloading. macOS may require manual approval at first launch and after updates.
+
+[Download the trial and checksum](https://github.com/jinho7/MacParallax/releases/tag/v0.8.0-rc1). The file retains its `candidate` name because this is an early-access build.
+
+Checkout is not open yet. If your 14-day trial ends before purchases open, the effect turns off; there is no automatic charge. Developer ID signing and notarization are deferred, not prerequisites for this early-access distribution.
 
 The planned early-access price is $6.99 USD once, with a 14-day trial and a personal license for up to 3 Macs. Try it on your own Mac before purchasing.
 
