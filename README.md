@@ -2,15 +2,15 @@
 
 A native menu bar app that follows your MacBook lid angle with a desktop effect and optional system audio control.
 
-[Website](https://macparallax.pages.dev) · [Compatibility](https://macparallax.pages.dev/compatibility) · [Report a bug](https://github.com/jinho7/MacParallax/issues/new/choose)
+[Website](https://macparallax.pages.dev) · [한국어](https://macparallax.pages.dev/ko/) · [Compatibility](https://macparallax.pages.dev/compatibility) · [Report a bug](https://github.com/jinho7/MacParallax/issues/new/choose)
 
 ## Release status
 
-The **0.8.0 early-access trial** is available. It is **ad-hoc signed and not Apple-notarized**. Read the [installation guide](https://macparallax.pages.dev/install) before downloading. macOS may require manual approval at first launch and after updates.
+**0.9.9 early access (Build 22)** is available. It is **Developer ID signed and notarized by Apple**, so macOS opens it without manual approval. Read the [installation guide](https://macparallax.pages.dev/install) ([한국어](https://macparallax.pages.dev/ko/install)) first.
 
-[Download the trial and checksum](https://github.com/jinho7/MacParallax/releases/tag/v0.8.0-rc1). The file retains its `candidate` name because this is an early-access build.
+[Download 0.9.9 and its checksum](https://github.com/jinho7/MacParallax/releases/tag/v0.9.9). Updating from 0.8.0: replace the app in Applications and allow Screen Recording once more; later updates keep the permission.
 
-Checkout is not open yet. If your 14-day trial ends before purchases open, the effect turns off; there is no automatic charge. Developer ID signing and notarization are deferred, not prerequisites for this early-access distribution.
+Checkout is not open yet. If your 14-day trial ends before purchases open, the effect turns off; there is no automatic charge.
 
 The planned early-access price is $6.99 USD once, with a 14-day trial and a personal license for up to 3 Macs. Try it on your own Mac before purchasing.
 
@@ -19,6 +19,7 @@ The planned early-access price is $6.99 USD once, with a 14-day trial and a pers
 - Follows the current lid angle, including when the lid stops or reverses.
 - Applies the same visual effect to the desktop, menu bar and cursor.
 - Optional system volume control; playback keeps going.
+- Work Shelf: a short note when you open the lid past your working angle, a welcome-back card after a break and an optional focus timer.
 - Menu bar operation and 9 interface languages. No camera.
 
 Screen frames are processed on the Mac. Screen Recording permission is required for the live desktop effect. This is not a security lock or screen-sharing filter.
