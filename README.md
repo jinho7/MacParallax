@@ -6,9 +6,9 @@ A native menu bar app that follows your MacBook lid angle with a desktop effect 
 
 ## Release status
 
-**0.9.10 early access (Build 23)** is available. It is **Developer ID signed and notarized by Apple**, so macOS opens it without manual approval. Read the [installation guide](https://macparallax.pages.dev/install) ([한국어](https://macparallax.pages.dev/ko/install)) first.
+**0.9.11 early access (Build 24)** is available. It is **Developer ID signed and notarized by Apple**, so macOS opens it without manual approval. Read the [installation guide](https://macparallax.pages.dev/install) ([한국어](https://macparallax.pages.dev/ko/install)) first.
 
-[Download 0.9.10 and its checksum](https://github.com/jinho7/MacParallax/releases/tag/v0.9.10). Activating a purchase requires 0.9.10 or later. Updating from 0.8.0: replace the app in Applications and allow Screen Recording once more; later updates keep the permission.
+[Download 0.9.11 and its checksum](https://github.com/jinho7/MacParallax/releases/tag/v0.9.11). Activating a purchase requires 0.9.10 or later. Updating from 0.8.0: replace the app in Applications and allow Screen Recording once more; later updates keep the permission.
 
 Checkout is not open yet. If your 14-day trial ends before purchases open, the effect turns off; there is no automatic charge.
 
