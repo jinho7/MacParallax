@@ -6,9 +6,9 @@ A native menu bar app that follows your MacBook lid angle with a desktop effect 
 
 ## Release status
 
-**0.9.9 early access (Build 22)** is available. It is **Developer ID signed and notarized by Apple**, so macOS opens it without manual approval. Read the [installation guide](https://macparallax.pages.dev/install) ([한국어](https://macparallax.pages.dev/ko/install)) first.
+**0.9.10 early access (Build 23)** is available. It is **Developer ID signed and notarized by Apple**, so macOS opens it without manual approval. Read the [installation guide](https://macparallax.pages.dev/install) ([한국어](https://macparallax.pages.dev/ko/install)) first.
 
-[Download 0.9.9 and its checksum](https://github.com/jinho7/MacParallax/releases/tag/v0.9.9). Updating from 0.8.0: replace the app in Applications and allow Screen Recording once more; later updates keep the permission.
+[Download 0.9.10 and its checksum](https://github.com/jinho7/MacParallax/releases/tag/v0.9.10). Activating a purchase requires 0.9.10 or later. Updating from 0.8.0: replace the app in Applications and allow Screen Recording once more; later updates keep the permission.
 
 Checkout is not open yet. If your 14-day trial ends before purchases open, the effect turns off; there is no automatic charge.
 
@@ -28,6 +28,6 @@ Current hardware verification is limited to an M2 Pro MacBook Pro (Mac14,9). Bro
 
 ## Support
 
-Use Issues for non-sensitive bug reports. Include Mac model, macOS version, app version and reproduction steps. **Never post license keys, receipts, email addresses or private screen contents in a public issue.** A private billing contact will be published before sales open.
+MacParallax is sold by Jino Labs. Purchases, refunds, licenses and private reports: jh7524jh7524@gmail.com. Use Issues for non-sensitive bug reports. Include Mac model, macOS version, app version and reproduction steps. **Never post license keys, receipts, email addresses or private screen contents in a public issue.**
 
 This repository contains release information and issue tracking. The application source and signing keys are not published here.
