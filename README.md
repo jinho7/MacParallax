@@ -28,6 +28,6 @@ Current hardware verification is limited to an M2 Pro MacBook Pro (Mac14,9). Bro
 
 ## Support
 
-MacParallax is sold by Jino Labs. Purchases, refunds, licenses and private reports: jh7524jh7524@gmail.com. Use Issues for non-sensitive bug reports. Include Mac model, macOS version, app version and reproduction steps. **Never post license keys, receipts, email addresses or private screen contents in a public issue.**
+MacParallax is sold by Jino Labs. Purchases, refunds, licenses and private reports: support@jinolabs.app. Use Issues for non-sensitive bug reports. Include Mac model, macOS version, app version and reproduction steps. **Never post license keys, receipts, email addresses or private screen contents in a public issue.**
 
 This repository contains release information and issue tracking. The application source and signing keys are not published here.
